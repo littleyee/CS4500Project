@@ -1,0 +1,20 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class CreateOnClick : MonoBehaviour {
+    public Object prefab;
+    public Transform source;
+
+    // Start is called before the first frame update
+    void Start() {
+
+    }
+
+    // Update is called once per frame
+    void Update() {
+        if (Input.GetButtonDown("Fire1")) {
+            Instantiate(prefab, source.position, source.rotation);
+        }
+    }
+}

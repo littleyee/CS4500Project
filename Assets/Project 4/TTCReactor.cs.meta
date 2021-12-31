@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 10dec174b63cda746b1ab5616b6e93ef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefab: {instanceID: 0}
+  - soccerball: {instanceID: 0}
+  - robot: {fileID: -7167381323823009514, guid: 741bb9cffcf9245409e19d89ddd995f2,
+      type: 3}
+  - uiText: {instanceID: 0}
+  - watcher: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
